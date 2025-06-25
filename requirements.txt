@@ -1,0 +1,14 @@
+# AI Interview Helper Requirements
+pystray
+Pillow
+sounddevice
+numpy
+openai
+speechrecognition
+pyttsx3
+keyboard
+google-genai>=0.3.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.11
+keyboard>=0.13.5
+requests>=2.25.0
