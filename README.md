@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 # AI Assistant Overlay
 
 AI Assistant Overlay is a professional, real-time desktop assistant for your daily productivity. It listens to your spoken questions (via microphone or system audio), sends them to Google Gemini, and displays suggested answers in a discreet, always-on-top overlay window.
