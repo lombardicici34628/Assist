@@ -5,7 +5,7 @@ from tkinter import simpledialog, messagebox
 def get_api_key():
     root = tk.Tk()
     root.withdraw()
-    api_key = simpledialog.askstring("Google Gemini API Key", "Paste your Google Gemini API key:")
+    api_key = simpledialog.askstring("Google Gemini API Key", "AIzaSyAJIVNq45n7ypVmweq_AeI8Xt0JgY_nPeQ")
     root.destroy()
     return api_key
 
